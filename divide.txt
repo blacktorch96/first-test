@@ -1,1 +1,2 @@
-add divide
+add divide 
+add subtract
